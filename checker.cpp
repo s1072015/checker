@@ -1,4 +1,4 @@
-// checker.cpp : ©w¸q¥D±±¥xÀ³¥Îµ{¦¡ªº¶i¤JÂI¡C
+// checker.cpp : å®šç¾©ä¸»æ§å°æ‡‰ç”¨ç¨‹å¼çš„é€²å…¥é»ã€‚
 //
 
 #include "stdafx.h"
@@ -59,4 +59,5 @@ void showBoard()
 				Ellipse(hdc,x-r,y-r,x+r,y+r);
 
 		}
+	
 }
